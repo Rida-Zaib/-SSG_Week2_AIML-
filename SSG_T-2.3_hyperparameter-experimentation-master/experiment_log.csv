@@ -1,0 +1,6 @@
+optimizer_name,lr,batch_size,epochs,accuracy,train_time_sec
+sgd,0.01,16,10,0.8028,2.46
+sgd,0.1,16,10,0.9778,2.11
+adam,0.001,16,10,0.9778,3.39
+adam,0.001,64,10,0.9583,1.09
+adam,0.001,16,20,0.975,6.22
